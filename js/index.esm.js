@@ -4,6 +4,7 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  * --------------------------------------------------------------------------
  */
+//import Alert from './src/alert'
 
 import Alert from './src/alert'
 import Button from './src/button'
